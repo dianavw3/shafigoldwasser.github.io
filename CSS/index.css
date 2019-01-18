@@ -1,0 +1,56 @@
+	h1 {
+		color: #111;
+		font-family: 'Trocchi', serif;
+		font-size: 60px; 
+		font-weight: normal;
+		text-align: center; 
+		background-color: white;
+	}
+	
+	h3 {
+		color: #111;
+	}
+	
+	p { color: #111;
+		font-family: 'source sans pro';
+		font-size 20px;
+		margin: 0 0 24px;
+		text-align: center;
+	}
+	
+	ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	width: 100%
+	}
+
+	li {
+	float: left;
+	}	
+
+	li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	}
+
+	li a:hover {
+	background-color: #111;
+	}
+	
+	img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+	
+
+
